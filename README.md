@@ -1,3 +1,5 @@
+--> deployed on netlify /// https://jovial-belekoy-705b41.netlify.app/  //// <---
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/86184829/197941131-4bd576e1-0249-4383-86e0-b17245860178.png">
 
 # Getting Started with Create React App
