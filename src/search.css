@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.searchBar{
+    /* flex-direction: column; */
+    /* width: 60%; */
+    /* margin: 0 auto; */
+    padding-left: 40%;
+    padding-top:10px ;
+    font-weight:100;
+    /* justify-content: center;
+    align-items: center; */
+    background-color: aqua;
+}
+
+.searchBarHeading{
+    /* margin: 10px 0px; */
+}
